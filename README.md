@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # EEG-Image-Motor
 =======
 # EEG-Motor-Imagery-Analysis
