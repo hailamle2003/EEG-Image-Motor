@@ -1,6 +1,5 @@
 
 # EEG-Image-Motor
-=======
 # EEG-Motor-Imagery-Analysis
 This repository belongs to my implementations during my **B.Sc. Project**. The main title was _Applications of Deep Neural Networks in EEG Signal Analysis_.
 
